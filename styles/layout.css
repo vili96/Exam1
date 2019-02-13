@@ -384,3 +384,27 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+/*Dona*/
+.wrapper.bgded.overlay{
+	background-image: url('../images/demo/backgrounds/01.png');
+}
+.content.three_quarter.first p{
+	text-align: justify;
+	font-family: Comic Sans MS;
+} 
+#second{
+	text-align: justify;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-weight:600;
+} 
+#comments ul{
+	background-color: silver;
+} 
+#sdb_holder{
+	background-color: silver;
+}
+#sdb_holder ul{
+	color: black !important;
+}
